@@ -45,6 +45,8 @@ env/
 .vscode/
 .idea/
 
-# Project stuff
+# Planning
 notes/
+progress.md
+DAILY_PLAN.md
 CLAUDE.md
