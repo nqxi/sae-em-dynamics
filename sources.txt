@@ -4,3 +4,13 @@ https://arxiv.org/abs/2506.19823
 
 https://arxiv.org/abs/2506.11613
 
+https://arxiv.org/html/2506.07691v1
+# HAS SAE ALREADY
+
+
+https://arxiv.org/abs/2602.00767
+# BLOCK-EM
+
+https://www.lesswrong.com/posts/NCWiR8K8jpFqtywFG/finding-misaligned-persona-features-in-open-weight-models
+
+# Anthropic Fellows, trained SAE for qwen-2.5-7b
