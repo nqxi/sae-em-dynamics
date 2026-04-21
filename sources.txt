@@ -1,16 +1,14 @@
 https://www.emergent-misalignment.com/ (https://arxiv.org/abs/2502.17424)
-
-https://arxiv.org/abs/2506.19823
+original paper; source of the eval prompts and the judge methodology.
 
 https://arxiv.org/abs/2506.11613
+Finds the phase transition, releases risky-financial-advice dataset, LoRA parameters
+
+https://arxiv.org/abs/2506.19823
+Uses SAE model-diffing to locate a "misaligned persona" feature
 
 https://arxiv.org/html/2506.07691v1
-# HAS SAE ALREADY
-
-
-https://arxiv.org/abs/2602.00767
-# BLOCK-EM
+Brief on SAEs
 
 https://www.lesswrong.com/posts/NCWiR8K8jpFqtywFG/finding-misaligned-persona-features-in-open-weight-models
-
-# Anthropic Fellows, trained SAE for qwen-2.5-7b
+Open source SAE trained on Qwen-7B!
